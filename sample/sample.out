@@ -1,0 +1,30 @@
+==================== Simulation Summary ====================
+ 
+----------------------------
+          System            
+----------------------------
+ 
+- Molecular Charge:  0
+ 
+Atom, Atomic Number (Z),  Cartesian Coordinates (Å)
+H   1 -0.450600  0.000000  0.100000
+H   1 -0.450600  0.000000  0.840848
+ 
+ 
+----------------------------
+         Simulation         
+----------------------------
+ 
+- Method: vmc 
+- Wavefunction Parameter (a):   1.200
+- Step Size (dt):  0.010
+- Number of MC Steps:     100000
+- Number of MC Runs:         30
+ 
+ 
+----------------------------
+          Results           
+----------------------------
+ 
+Energy (Eh): -1.051536 +/- 0.3E-02
+Acceptance Ratio:  0.829466 +/- 0.3E-03

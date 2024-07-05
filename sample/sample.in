@@ -1,0 +1,18 @@
+! Geometry (angstrom)
+2  ! number of atoms (or nuclei)
+0  ! molecular charge
+H   -0.4506000 0.0000000 0.1000000
+H   -0.4506000 0.0000000 0.8408481
+
+! Simulation method
+vmc ! Monte Carlo method used: "vmc" (Variational) or "pdmc" (Pure Diffusion)
+
+! Simulation parameters
+1.2d0   ! variational parameter (a)
+0.01d0  ! Step size (dt)
+100000  ! Number of MC steps (nmax)
+30      ! Number of MC runs (nruns)
+-1.1d0  ! Energy shift (E_ref) for pdmc
+100.d0  ! Imaginary time variable (tau) for pdmc
+
+
